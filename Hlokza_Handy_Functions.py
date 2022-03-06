@@ -34,6 +34,7 @@ def readCsv(fn,fm,fs):
 	extFile.close()
 	return s	
 	#print(s)
+	
 #In a different path
 def readCsvPath(fn,fm,fs):
 	extFile = ""
